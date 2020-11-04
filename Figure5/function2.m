@@ -2,7 +2,7 @@
 % This function is a Matlab implementation of the model for the case of
 % groups with identical sizes (the degree of rivalrousness is assumed to be
 % equal 1).
-% This function automatically simulate the model 100 runs and show the
+% This function automatically simulates the model 100 runs and shows the
 % results on the number of cooperating groups Coop, the Gini index
 % of inequality among them Gini, and the standard deviation of efforts
 % among them StdX.
