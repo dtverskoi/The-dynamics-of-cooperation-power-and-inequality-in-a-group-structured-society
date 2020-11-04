@@ -2,3 +2,6 @@ function3.m is a Matlab implementation of the model for the case of groups with 
 This function automatically simulates the model 100 runs and shows the results on the number contributing individuals dx, power df, and 
 cooperation status dt for each group.
 
+Fig6_data.m performs simulations that are required for the Figure 6. It uses function3 for creating data. All the output files should 
+be kept in the same folder. 
+
