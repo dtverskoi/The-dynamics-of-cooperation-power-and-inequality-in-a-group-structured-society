@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function is a Matlab implementation of the model for the case of
 % groups with different sizes and varying degree of rivalrousness ga.
-% This function automatically simulate the model 100 runs and show the
+% This function automatically simulates the model 100 runs and shows the
 % results on the number contributing individuals dx, power df, and
 % cooperation status dt for each group.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
