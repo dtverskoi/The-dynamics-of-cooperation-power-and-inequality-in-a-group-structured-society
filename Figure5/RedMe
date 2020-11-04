@@ -1,0 +1,9 @@
+function2.m is a Matlab implementation of the model for the case of groups with identical sizes (the degree of rivalrousness is assumed to be equal 1).
+This function automatically simulates the model 100 runs and shows the results on the number of cooperating groups Coop, the Gini index of inequality 
+among them Gini, and the standard deviation of efforts among them StdX.
+
+Fig5_data.m performs simulations that are required for the Figure 5. It uses function2 for creating data. All the output files should be kept in the same folder.
+
+Figure5.m plots Figure 5 using data created by the program file Fig5_data.m. This code also uses program files boundedline.m, confplot.m, inpaint_nans.m, 
+outlinebounds.m and singlepatch.m created by Kelly Kearney (Kelly Kearney (2020). boundedline.m (https://github.com/kakearney/boundedline-pkg), GitHub.
+Retrieved November 4, 2020).
