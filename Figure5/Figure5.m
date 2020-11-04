@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This code plot Figure 5 using data created by the program file
+% This code plots Figure 5 using data created by the program file
 % Fig5_data.m. This code also uses program files boundedline.m, confplot.m,
 % inpaint_nans.m, outlinebounds.m and singlepatch.m created by Kelly
 % Kearney (Kelly Kearney (2020). boundedline.m (https://github.com/kakearney/boundedline-pkg), GitHub.
