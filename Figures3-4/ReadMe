@@ -1,5 +1,5 @@
 function1.m is a Matlab implementation of the model for the case of groups with identical sizes (the degree of rivalrousness is assumed to be equal 1)
 
-Fig3_data.m perform simulations that are required for the Figure 3. It uses function1 for creating data. All the output files should be kept in the same folder.
+Fig3_data.m performs simulations that are required for the Figure 3. It uses function1 for creating data. All the output files should be kept in the same folder.
 
 Figure3.m plots Figure 3 using data created by the program file Fig3_data.m
