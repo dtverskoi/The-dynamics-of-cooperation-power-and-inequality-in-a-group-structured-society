@@ -7,3 +7,5 @@ Fig5_data.m performs simulations that are required for the Figure 5. It uses fun
 Figure5.m plots Figure 5 using data created by the program file Fig5_data.m. This code also uses program files boundedline.m, confplot.m, inpaint_nans.m, 
 outlinebounds.m and singlepatch.m created by Kelly Kearney (Kelly Kearney (2020). boundedline.m (https://github.com/kakearney/boundedline-pkg), GitHub.
 Retrieved November 4, 2020).
+
+LICENSE.txt corresponds to boundedline.m, confplot.m, inpaint_nans.m, outlinebounds.m, and singlepatch.m.
