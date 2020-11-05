@@ -88,7 +88,7 @@ for ggga=1:2
                     xlabel('b_2','Fontsize',30)
                     ylabel('\theta','Fontsize',25)
                     
-                    print('GSP',[num2str(B1/100),num2str(Z0/10),'e',num2str(10*e)],'-dpng')
+                    print(['GSP',num2str(B1/100),num2str(Z0/10),'e',num2str(10*e)],'-dpng')
                 end
             end
         end
