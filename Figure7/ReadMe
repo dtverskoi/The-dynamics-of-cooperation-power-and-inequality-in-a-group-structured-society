@@ -5,3 +5,4 @@ cooperation status dt for each group (G=4 groups of sizes [5 10 15 n]).
 Fig7_data.m performs simulations that are required for the Figure 7. It uses function4 for creating data. All the output files should be 
 kept in the same folder.
 
+Figure7.m plots Figure 7 using data created by the program file Fig7_data.m
