@@ -20,7 +20,7 @@ for ggga=1:2
                 set(gcf, 'Position',  [100, 100, 1200, 300])
                 
                 subplot(1,3,1)
-                plot(EE,dX(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                plot(EE,dX(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                 xlim([0 XL])
                 ylim([0,10])
                 set(gca,'FontSize',15)
@@ -28,7 +28,7 @@ for ggga=1:2
                 ylabel('X','Fontsize',30)
                 
                 subplot(1,3,3)
-                plot(EE,dF(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                plot(EE,dF(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                 xlim([0 XL])
                 ylim([0,1])
                 set(gca,'FontSize',15)
@@ -37,7 +37,7 @@ for ggga=1:2
                 legend('5','10','15','20','Fontsize',15,'Location','northwest')
                 
                 subplot(1,3,2)
-                plot(EE,dT(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                plot(EE,dT(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                 xlim([0 XL])
                 ylim([0,1])
                 set(gca,'FontSize',15)
@@ -64,7 +64,7 @@ for ggga=1:2
                     set(gcf, 'Position',  [100, 100, 1200, 300])
                     
                     subplot(1,3,1)
-                    plot(EE,dX(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                    plot(EE,dX(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                     xlim([0 XL])
                     ylim([0,10])
                     set(gca,'FontSize',15)
@@ -72,7 +72,7 @@ for ggga=1:2
                     ylabel('X','Fontsize',30)
                     
                     subplot(1,3,3)
-                    plot(EE,dF(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                    plot(EE,dF(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                     xlim([0 XL])
                     ylim([0,1])
                     set(gca,'FontSize',15)
@@ -81,7 +81,7 @@ for ggga=1:2
                     legend('5','10','15','20','Fontsize',15,'Location','northwest')
                     
                     subplot(1,3,2)
-                    plot(EE,dT(1:4,21*(ee-1):21*(ee-1)+21),'LineWidth',3)
+                    plot(EE,dT(1:4,21*(ee-1)+1:21*(ee-1)+21),'LineWidth',3)
                     xlim([0 XL])
                     ylim([0,1])
                     set(gca,'FontSize',15)
