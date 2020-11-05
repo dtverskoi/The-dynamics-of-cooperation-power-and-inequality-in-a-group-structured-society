@@ -3,7 +3,7 @@
 % groups with different sizes and varying degree of rivalrousness ga.
 % This function automatically simulates the model 100 runs and shows the
 % results on the number contributing individuals dx, power df, and
-% cooperation status dt for each group.
+% cooperation status dt for each group (G=4 groups of sizes [5 10 15 n]).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [dx,df,dt] = function4(B1,B2,e,Z0,Runs,ga,nnn)
